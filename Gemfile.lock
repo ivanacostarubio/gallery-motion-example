@@ -1,0 +1,17 @@
+GIT
+  remote: https://github.com/ivanacostarubio/gallery_motion
+  revision: 1aa1c8d1530c4bf88d1bd5db1318dab31da783d6
+  specs:
+    gallery_motion (1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gallery_motion!
+  rake
